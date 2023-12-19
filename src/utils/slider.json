@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Bahria Town",
+        "price": "46500000",
+        "detail": "House#22-B, Street#67, Phase-2 Block-C Bahria Town Islamabad",
+        "image": "./r1.png"
+    },
+    {
+        "name": "Jinnah Garden",
+        "price": "29500000",
+        "detail": "H#10, St#221, Jinnah Garden Phase-1 Islamabad",
+        "image": "./r2.png"
+    },
+    {
+        "name": "Jinnah Garden",
+        "price": "33000000",
+        "detail": "H#24, St#50, Jinnah Garden Phase-1 Islamabad",
+        "image": "./r3.png"
+    },
+    {
+        "name": "Jinnah Garden",
+        "price": "31000000",
+        "detail": "H#17, St#28, Jinnah Garden Phase-1 Islamabad",
+        "image": "./r3.png"
+    },
+    {
+        "name": "Jinnah Garden",
+        "price": "27500000",
+        "detail": "H#5, St#214, Jinnah Garden Phase-1 Islamabad",
+        "image": "./r3.png"
+    },
+    {
+        "name": "Jinnah Garden",
+        "price": "31000000",
+        "detail": "H#39, St#11, Jinnah Garden Phase-1 Islamabad",
+        "image": "./r3.png"
+    },
+    {
+        "name": "Jinnah Garden",
+        "price": "31000000",
+        "detail": "H#39, St#11, Jinnah Garden Phase-1 Islamabad",
+        "image": "./r3.png"
+    }
+]
